@@ -21,7 +21,6 @@ Cocok untuk belajar, ngembangin bot pribadi, atau dijadiin project dasar.
 1. Clone repo:
    ```bash
    git clone https://github.com/kyraamd/KyraMD-wabot.git
-   cd KyraMD-wabot
    ```
 2. Jalankan bot:
    ```bash
